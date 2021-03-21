@@ -3,10 +3,6 @@
 # propósito es imprimir una frase que usa las variables.
 
 # COMMIT INICIAL
-# 2do commit: Se añadio comentario 2
-# 3er commit: Se añadio comentario 3
-# 4to commit: Se añadio comentario 4
-# 5to commit: Se añadio comentario 5
 
 
 
